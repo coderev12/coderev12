@@ -157,9 +157,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/shivansh-srivastava29/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:shivasriv2002@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-<a href="https://leetcode.com/u/Shivansh_2902/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
-<a href="https://codeforces.com/profile/coderev_12" target="_blank"><img src="https://img.icons8.com/color/48/000000/codeforces.png"/></a>
-<a href="https://github.com/coderev12" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 </p>
 
 <p align="center">
