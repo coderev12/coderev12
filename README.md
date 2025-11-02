@@ -31,7 +31,7 @@
 
 ## 🧠 About Me
 
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="360" height="360" /></a>
 
 - 👨‍💻 Software Engineer @ **Yamaha Motor Solutions** — building and maintaining **enterprise-scale ASP.NET MVC systems** for international clients (Turkey, Australia, Peru).
 - 🚀 Ex-Full Stack Developer Intern @ **AIGROEDGE Technologies** — worked on real-time dashboards, JWT auth, and scalable API systems.
@@ -84,6 +84,14 @@
 - 🥈 **Rank 64** in *CodeChef Long Challenge* (16K+ global participants)  
 - 🏆 **Top 10 Finalist** in *AmiCode 2023* (Amity University Hackathon)  
 - 🪄 *Academic Scholarship (2020–2024)* for outstanding performance  
+## 🏅 LeetCode Badges
+<p align="center">
+<img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="60px" title="365 Days Badge"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60px" title="100 Days Badge (2x)"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="60px" title="50 Days Badge"/>
+<img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="60px" title="July Badge"/>
+<img src="https://leetcode.com/static/images/badges/2022/gif/2022-07.gif" width="60px" title="July Badge"/>
+</p>
 
 ---
 
