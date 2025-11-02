@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Shivansh Srivastava</b></h1>
 
-<h2 align="center"><b>Software Engineer @ Yamaha Motor Solutions | Full Stack Developer | Problem Solving Enthusiast 🧠</b></h2>
+<h2 align="center"><b>Associate Software Engineer @ Yamaha Motor Solutions | Full Stack Developer | Problem Solving Enthusiast 🧠</b></h2>
 
 <p align="center">
 <b>Ex-Intern @ AIGROEDGE Technologies | Ex-Teaching Assistant @ Coding Ninjas | 500+ DSA Problems | Azure Certified ☁️ | Building Scalable Web Solutions 🚀</b>
@@ -33,7 +33,7 @@
 
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="360" height="360" /></a>
 
-- 👨‍💻 Software Engineer @ **Yamaha Motor Solutions** — building and maintaining **enterprise-scale ASP.NET MVC systems** for international clients (Turkey, Australia, Peru).
+- 👨‍💻Associate Software Engineer @ **Yamaha Motor Solutions** — building and maintaining **enterprise-scale ASP.NET MVC systems** for international clients (Turkey, Australia, Peru).
 - 🚀 Ex-Full Stack Developer Intern @ **AIGROEDGE Technologies** — worked on real-time dashboards, JWT auth, and scalable API systems.
 - 🎓 Ex-Teaching Assistant @ **Coding Ninjas** — mentored 300+ students in **DSA (Java, C++)**, code reviews, and algorithmic optimization.
 - 💡 Solved **500+ DSA problems** across LeetCode, Codeforces, CodeChef, and GFG.
@@ -109,7 +109,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,azure,figma,java,cpp,cs,dotnet,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,azure,figma,java,cpp,cs,dotnet,mysql,vscode,threejs" />
 </p>
 
 ---
